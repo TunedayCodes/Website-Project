@@ -1,3 +1,4 @@
+//THE SLIDE FUNCTIONALITIES
 
 const delay = 3000; //ms
 
